@@ -33,5 +33,10 @@
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "1.0.1"
+  },
+  "dependencies": {
+    "node": "^18.5.0",
+    "test": "^3.0.1",
+    "updates": "^13.1.2"
   }
 }
